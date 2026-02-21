@@ -1,0 +1,5 @@
+{
+  "name": "Eredivisie Manager '26 Lite",
+  "description": "A streamlined football management simulation for the Dutch Eredivisie. Manage your squad, tactics, and budget. Features a live match engine, transfer market, and AI-powered assistant manager advice.",
+  "requestFramePermissions": []
+}
